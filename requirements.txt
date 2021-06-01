@@ -38,7 +38,7 @@ sendgrid==5.2.0
 shutilwhich==1.1.0
 six==1.11.0
 twilio==6.7.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
 whitenoise==3.3.1
